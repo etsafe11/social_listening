@@ -10,7 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 knitr::opts_chunk$set(root.dir = 'C:/Users/v-eritho/Desktop/RScripts/capstone_project/data/')
 ```
 
-# test changes
 ### Introduction
 
 This reproducible report demonstrates how to build a text prediction model beginning with text files
